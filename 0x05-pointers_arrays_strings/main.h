@@ -2,8 +2,8 @@
 #define MAIN_H
 
 /**
- * prototype files
- * impot form here
+ * prototypes files
+ * import form here
  */
 
 int _putchar(char c);
